@@ -16,4 +16,6 @@ phases:
 
 artifacts:
   files:
-    - /var/www/html/index.html
+    - appspec.yml
+    - index.html
+    - scripts/**/*
